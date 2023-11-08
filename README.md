@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-- 🎓 I’m currently a  M.Sc. Integrated Machine Learning Systems student at <a href="https://www.ucl.ac.uk/" target="_blank">Unversity College London</a>
+- 🎓 I’m currently a  M.Sc. Integrated Machine Learning Systems student at <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener noreferrer">Unversity College London</a>
 - 🎓 B.Eng. Electronic and Electrical Engineering dual degree from <a href="https://www.leeds.ac.uk/" target="_blank">Unversity of Leeds</a> and <a href="https://en.swjtu.edu.cn/" target="_blank">Southwest Jiaotong University</a>
 - 💖 I love topics about Robotics, Embedded Systems, Computer Vision
 - 💬 Ask me about anything [here](https://github.com/somerandomEthan/somerandomEthan/issues)

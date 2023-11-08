@@ -24,7 +24,7 @@
   <a href="https://github.com/somerandomEthan">
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?usernamesomerandomEthan&show_icons=true&include_all_commits=false&theme=rose_pine&count_private=true#gh-dark-mode-only"
+      srcset="https://github-readme-stats.vercel.app/api?username=somerandomEthan&show_icons=true&include_all_commits=false&theme=rose_pine&count_private=true#gh-dark-mode-only"
       media="(prefers-color-scheme: dark)"
     />
     <source
